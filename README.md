@@ -30,23 +30,23 @@
 
 # Пример работы программы:
 
-**Площадь фигуры**
+- **Площадь фигуры**
 
 <img width="450" height="203" alt="image" src="https://github.com/user-attachments/assets/517875a3-c722-4517-87a9-9fbce7a0723d" />
 
-**Вывод определения фигуры**
+- **Вывод определения фигуры**
 
 <img width="985" height="230" alt="image" src="https://github.com/user-attachments/assets/2b53c8f1-c4e4-4fab-88f7-765ac925f8b1" />
 
-**Рисунок фигуры**
+- **Рисунок фигуры**
 
 <img width="515" height="498" alt="image" src="https://github.com/user-attachments/assets/f07990a4-a7db-4891-8df5-4c5dff184c7b" />
 
-**Сравнение двух фигур**
+- **Сравнение двух фигур**
 
 <img width="779" height="311" alt="image" src="https://github.com/user-attachments/assets/e5f1cc93-c1e4-4e94-ae32-78049e087d7c" />
 
-**Выход из цикла**
+- **Выход из цикла**
 
 <img width="472" height="201" alt="image" src="https://github.com/user-attachments/assets/92012281-2a86-41ad-bc4e-dbf3b389a143" />
 
